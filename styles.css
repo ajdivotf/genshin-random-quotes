@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#quote-box{
+    position: relative;
+    width: 600px;
+    padding: 40px 50px;
+    display: table;
+}
+h2{
+    text-align: center;
+}
+#author{
+    text-align: right;
+}
+#new-quote{
+    color: white;
+}
+#tweet-quote{
+    color: white;
+}

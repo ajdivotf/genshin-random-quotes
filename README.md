@@ -5,4 +5,5 @@ this is the implementation of the task from the freecodecamp course - front end 
 
 the results are:
 
-<img src='https://github.com/ajdivotf/genshin-random-quotes/blob/main/zl-quote.png' width='600'/>
+<img src='https://github.com/ajdivotf/genshin-random-quotes/blob/main/results/another-zl-quote.png' width='600'/><img src='https://github.com/ajdivotf/genshin-random-quotes/blob/main/results/zl-quote.png' width='600'/>
+
